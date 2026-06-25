@@ -1,7 +1,7 @@
 # Drip-Lite-Client
 Drip Lite &amp; update + fix
 ---
-### DRIP LITE CLIENT
+
 <img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/8a65bcbd-de4d-451b-b486-436974a6cc7a" />
 ---
 

